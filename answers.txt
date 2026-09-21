@@ -1,11 +1,14 @@
 
 Q1: Why might we consider using Git?
 
-Answer: People can store their code and files, whether public or private. Individuals can also collaborate on code for projects.
+Answer: People can store their code and files, whether public or private. 
+Individuals can also collaborate on code for projects.
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: Data science could be applied towards sports. For example, it could be used to create models that predicts an athletes performance during a game, improve game performance, and reduce injury. 
+Answer: Data science could be applied towards sports. For example, it could be 
+used to create models that predicts an athletes performance during a game, 
+improve game performance, and reduce injury. 
 
 
 Q3: What is the difference between Merging and Rebasing?
@@ -13,3 +16,6 @@ Q3: What is the difference between Merging and Rebasing?
 Answer: Merging joins two branches while creating a merge commit and preserving the history. 
 On the other hand, rebasing moves the branch to the end of the main branch.  
 
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning SQL and enhancing my Python skills. 
