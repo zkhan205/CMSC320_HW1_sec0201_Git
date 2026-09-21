@@ -1,5 +1,11 @@
+
 Q1: Why might we consider using Git?
 
-Answer: People can store their code and files, whether public or private. Individuals can also collaborate on code for projects. 
+Answer: People can store their code and files, whether public or private. Individuals can also collaborate on code for projects.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied towards sports. For example, it could be used to create models that predicts an athletes performance during a game, improve game performance, and reduce injury. 
+
 
 
